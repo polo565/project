@@ -15,7 +15,7 @@ const List<ScriptEntry> defaultScripts = [
   ScriptEntry(
     name: 'Script 2',
     url:
-        'https://script.google.com/macros/s/AKfycbyKs2NrDJjS2IW3y99RuerF5OeMwv2g8JzPQrYXnGCmkHKs4C8hKXGG5y60Z_i8KkoR9g/exec',
+        'https://script.google.com/macros/s/AKfycbyN_k134kkvoqfq4h-oooFuz3zensDZtCIbkPrVNLDIJ73xvZghfLnu_X1jAYb985HkEg/exec?upgrade=1',
   ),
   ScriptEntry(
     name: 'Script 3',
