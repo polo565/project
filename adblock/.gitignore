@@ -1,0 +1,17 @@
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+ios/
+test/
+*.iml
+.idea/
+# Fichiers Android générés par `flutter create` (seul le code natif est versionné)
+android/*
+!android/app/
+android/app/*
+!android/app/src/
+android/app/src/*
+!android/app/src/main/
+android/app/src/main/res/
