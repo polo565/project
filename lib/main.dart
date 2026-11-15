@@ -3,7 +3,7 @@ import 'package:flutter/services.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
 const String appUrl =
-    'https://script.google.com/macros/s/AKfycbyN_k134kkvoqfq4h-oooFuz3zensDZtCIbkPrVNLDIJ73xvZghfLnu_X1jAYb985HkEg/exec?admin=1';
+    'https://script.google.com/macros/s/AKfycbw-tgUtiawUqGKjPZHzKjBwm7rO4HzgI3gUDUSxz2DDSx0WeazuKJJT7X0i2NBhwP63HA/exec?page=admin';
 
 void main() {
   runApp(const AdminApp());
